@@ -1,2 +1,2 @@
-# Namratha_Python_Basic
+# Basic Python Codes
  
